@@ -5,6 +5,10 @@ header {
 }
 
 /* css comment do over */
+#para1 {
+  text-align: center;
+  color: #ff0000
+}
 
 h1 {
   font-size: 20px;
